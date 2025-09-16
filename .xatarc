@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://SAIKAT-TANTI-s-workspace-fo8br0.ap-southeast-2.xata.sh/db/snapcast",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
